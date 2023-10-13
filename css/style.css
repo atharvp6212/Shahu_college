@@ -48,19 +48,17 @@
   .a{
     /* margin-top: 70px; */
     background-color: #f1f1f116;
-    font-size: 40px;
+    font-size: 35px;
     padding-left: 450px;
     color: #f1f1f1;
   }
   .college{
-    margin-left: -20px;
-  }
-  .inner{
-    display: flex;
+    margin-left: -170px;
   }
 
   .main{
-    padding-left: 50px;
+    padding-left: 280px;
+    display: flex;
   }
 
   .footer {
@@ -83,6 +81,10 @@
   }
   .c{
     margin-left: 110px;
+  }
+
+  .logo{
+    padding-left: 35%;
   }
   
   .logo1 img{
@@ -109,6 +111,7 @@
     }
     .logo{
       width: 50px;
+      margin-left: -110px;
     }
     .inner{
       display: contents;
@@ -137,9 +140,22 @@
     }
     .college{
       margin-left: -440px;
+      font-size: 13px;
+      align-items:center;
     }
     .logo1 {
       margin-left: 140px;
+    }
+    .main{
+      display: inline;
+      margin-left: -20px;
+    }
+    .q{
+      font-size: 12px;
+      margin-left: 20px;
+    }
+    .w{
+      margin-left: 10px;
     }
   }
 
