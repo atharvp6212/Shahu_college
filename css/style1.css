@@ -99,7 +99,7 @@
       margin-left: 100px;
     }
     .number{
-      padding-left: 150px;
+      padding-left: 160px;
     }
     .control{
       width: 50px;
@@ -198,10 +198,10 @@
   
   @media screen and (max-width: 500px) {
     .m{
-      margin-left: 100px;
+      margin-left: 45px;
     }
     .l{
-      margin-left: 90px;
+      margin-left: 120px;
     }
     .foot-image {
       margin-left: -20px;
