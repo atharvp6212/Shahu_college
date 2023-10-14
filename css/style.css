@@ -52,13 +52,17 @@
     padding-left: 450px;
     color: #f1f1f1;
   }
+
+  .w h1{
+    font-size: 100px;
+  }
   .college{
     margin-left: -170px;
   }
 
   .main{
-    padding-left: 280px;
-    display: flex;
+    padding-left: 500px;
+    /* display: flex; */
   }
 
   .footer {
@@ -84,11 +88,13 @@
   }
 
   .logo{
-    padding-left: 35%;
+    padding-left: -40%;
+    margin-top: 10%;
   }
   
   .logo1 img{
-    width: 130px;height: 100px;margin-trim: 10;
+    width: 150px;height: 150px;margin-trim: 10;
+    padding-left: -40%;
   }
   
   /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
@@ -105,13 +111,16 @@
     .baghu{
       display: flex;
     }
+    .header-right a{
+      font-size: 15px;
+    }
     .baghu2{
       display: flex;
-      margin-left: 80px;
+      margin-left: 27px;
     }
     .logo{
       width: 50px;
-      margin-left: -110px;
+      /* margin-left: -px; */
     }
     .inner{
       display: contents;
@@ -120,31 +129,32 @@
       height: 10px;
     }
     .footer{
-      margin-left: 100px;
+      margin-left: 65px;
     }
     .atharv {
-      margin-left: 80px;
+      margin-left: 70px;
     }
     .username {
-      margin-left: 0px;
+      margin-left: 75px;
     }
-    .contact{
-      margin-left: 5px;
+    .contact h1{
+      margin-left: 25px;
+      font-size: 8px;
     }
     .a{
       margin-left: 0px;
       font-size: 25px;
     }
     .c {
-      margin-left: -375px;
+      margin-left: -390px;
     }
     .college{
-      margin-left: -440px;
-      font-size: 13px;
+      margin-left: -450px;
+      font-size: 11px;
       align-items:center;
     }
     .logo1 {
-      margin-left: 140px;
+      margin-left: 70px;
     }
     .main{
       display: inline;
@@ -155,7 +165,10 @@
       margin-left: 20px;
     }
     .w{
-      margin-left: 10px;
+      margin-left: 38px;
+    }
+    .w h1{
+      font-size: 60px;
     }
   }
 
@@ -218,6 +231,13 @@ img:hover{
     margin-left: 35%;
     font-size: 30px;
   
+  }
+  .slider {
+    width: 100%;
+  }
+  .slide {
+    width: 440px;
+    padding: 10px 10px;
   }
 }
 
