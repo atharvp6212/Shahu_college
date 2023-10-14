@@ -59,7 +59,10 @@
     }
     .baghu2{
       display: flex;
-      margin-left: 80px;
+      margin-left: 27px;
+    }
+    .header-right a{
+      font-size: 15px;
     }
     .logo{
       width: 50px;
@@ -96,7 +99,7 @@
       margin-left: 140px;
     }
     .number{
-      padding-left: 200px;
+      padding-left: 150px;
     }
     .control{
       width: 50px;
@@ -195,16 +198,16 @@
   
   @media screen and (max-width: 500px) {
     .m{
-      margin-left: 60px;
+      margin-left: 150px;
     }
     .l{
-      margin-left: 30px;
+      margin-left: 100px;
     }
     .foot-image img{
       width: 190px;margin-left: 120px;height: 150px;
     }
     .dropbtn{
-      margin-left: 150px;
+      margin-left: 130px;
     width: 150px;
     }
     .audio{
@@ -224,9 +227,9 @@
       margin-top: 50px;
     }
     .first{
-      margin-left: 20px;
+      margin-left: 25px;
     }
     .second{
-      margin-left: 20px;
+      margin-left: 25px;
     }
   }
