@@ -96,7 +96,7 @@
       margin-left: -440px;
     }
     .logo1 {
-      margin-left: 120px;
+      margin-left: 100px;
     }
     .number{
       padding-left: 150px;
@@ -198,16 +198,19 @@
   
   @media screen and (max-width: 500px) {
     .m{
-      margin-left: 150px;
+      margin-left: 100px;
     }
     .l{
-      margin-left: 50px;
+      margin-left: 90px;
+    }
+    .foot-image {
+      margin-left: -20px;
     }
     .foot-image img{
       width: 190px;margin-left: 120px;height: 150px;
     }
     .dropbtn{
-      margin-left: 130px;
+      margin-left: 120px;
     width: 150px;
     }
     .audio{
