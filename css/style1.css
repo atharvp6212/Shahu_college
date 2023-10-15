@@ -56,6 +56,8 @@
     }
     .baghu{
       display: flex;
+      margin-left: 65px;
+      margin-top: 10;
     }
     .baghu2{
       display: flex;
@@ -190,7 +192,7 @@
     width: 190px;margin-left: 650px;height: 150px;
   }
   .l{
-    margin-left: 580px;
+    margin-left: 680px;
   }
   .m{
     margin-left: 40px;
@@ -230,9 +232,17 @@
       margin-top: 50px;
     }
     .first{
-      margin-left: 25px;
+      margin-left: 20px;
     }
     .second{
-      margin-left: 25px;
+      margin-left: 20px;
+    }
+    .npn img{
+      width: 340px;
+      object-fit: cover;
+    }
+    .active {
+      width: 37px;
+      margin-left: 150px;
     }
   }
